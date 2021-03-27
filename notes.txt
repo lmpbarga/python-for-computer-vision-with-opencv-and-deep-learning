@@ -1,0 +1,6 @@
+conda activate python-cvcourse
+
+jupyter-lab
+
+import numpy as np
+import cv2 as cv
